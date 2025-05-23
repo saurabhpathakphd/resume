@@ -14,16 +14,16 @@ resume_name:                    "Saurabh Pathak, Ph.D."
 resume_title:                   "Staff Engineer"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+resume_contact_email:           "saurabhpathakphd@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_telephone:       "405-589-3359"
+resume_contact_address:         "Olathe, Kansas"
 
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>Accomplished Ph.D. Mechanical Engineer specializing in Computational Fluid Dynamics (CFD) with over five years of combined research and industry experience. Proven ability to develop, validate, and apply sophisticated CFD models and advanced numerical techniques to solve complex thermal-fluid problems. Expertise includes multiphysics simulations, heat transfer, multiphase flow phenomena, and experimental fluid dynamics (PIV). Proficient with industry-standard CFD software (ANSYS Fluent, COMSOL Multiphysics), MATLAB scripting, and experienced in both independent and collaborative R&D environments. Seeking challenging roles leveraging advanced simulation skills to drive innovation and solve engineering problems.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
