@@ -1,13 +1,12 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Doctor of Philosophy (Ph.D.), Mechanical Engineering
+  uni: The University of Akron
+  year: 2016 &mdash; 2021
+  
+  summary: Investigated dynamics of droplets using experimental and computational techniques of fluid mechanics. Focussed on Droplet boundary mechanics.
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
+- degree: Master of Science (M.S), Mechanical Engineering
+  uni: The University of Akron
+  year: 2014-2016
+  
   summary: You can choose to have either a single or multiple awards
